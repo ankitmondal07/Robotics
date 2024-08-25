@@ -1,4 +1,15 @@
 <h1>Line Follower Bot </h1>
+<h2>using components </h2>
+<h4><p>1)Arduino Uno 
+2)TB66 12FNG motor driver
+3)12v N20 motors
+4)Wheels
+5)Castor wheels 
+6) 5Channel IR Sensor 
+7)uzzer
+8)LED
+9)Battery 
+10)Push Button</p></h4>
 
 <url>![IMG20240306213801](https://github.com/user-attachments/assets/0488c794-ee66-4585-bb01-5463db54a48e)</url>
 
